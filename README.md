@@ -1,17 +1,37 @@
-# React + Vite
+# Business Card Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a solo project that focuses on building user interfaces with React and creating reusable components. The purpose of this mini project was to recreate a personal digital business card while practicing the core concepts of React, including JSX, component-based architecture, and styling.
 
-Currently, two official plugins are available:
+This project was built as part of Scrimba's Fullstack Developer Path after completing the introductory React module. The goal was to strengthen my understanding of how React applications are structured, how components can be reused to create clean and maintainable code, and how modern frontend applications are developed using Vite.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Getting Started
 
-## React Compiler
+1. Clone the repository.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+```bash
+git clone <repository-url>
+```
 
-## Expanding the ESLint configuration
+2. Navigate to the project folder.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# business-card-portfolio
+```bash
+cd business-card-portfolio
+```
+
+3. Install dependencies.
+
+```bash
+npm install
+```
+
+4. Start the development server.
+
+```bash
+npm run dev
+```
+
+5. Open your browser and visit:
+
+```text
+http://localhost:5173
+```
